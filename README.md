@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Carlos Gómez Huélamo, currently PhD candidate in Artificial Intelligence and Robotics at the RobeSafe research group (Electronics Department, University of Alcalá) under the supervision of Prof. Luis Miguel Bergasa and Prof. Rafael Barea Navarro. I received my BSc degree in Industrial Electronics and Automation Engineering (Top 3 students) from the University of Alcalá (2013-2017) , in which I was granted with an Erasmus+ scholarship to study in the University College of Cork (UCC, Ireland) and my MSc in Industrial Engineering (Top 2 students) from the University of Alcalá (2017-2019), in which I was granted with an Erasmus+ scholarship to study in the Tampere University of Technology (TUT, Finland). As member of the RobeSafe research group, I am working in research projects with other universities and companies to generate an important technology transfer to companies and publications. In particular, my PhD thesis is focused on "Deep Learning based Multi-Object Tracking, Sensor Fusion and Motion Forecasting for Autonomous Driving applications". Main areas of interest consist of Computer Vision, Machine Learning, Deep Learning, Robotics, Embedded Systems and any field related to these.
+
 <!--
 **Cram3r95/Cram3r95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
