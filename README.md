@@ -7,6 +7,8 @@
 📚 Formerly, I carried out my PhD (2019 - 2023) in Robotics and Artificial Intelligence in the RobeSafe research group (Universidad de Alcalá, Spain) under the supervision of Prof. Luis Miguel Bergasa and Prof. Rafael Barea Navarro. The PhD thesis was focused on "Predictive Techniques for Scene Understanding by using Deep Learning in Autonomous Driving" 🚗🤖, receiving, among other acknoledgments, the prestigious IEEE ITS Best Dissertation Award (2024). 
 
 <!--
+https://carlosgomezhuelamo.wordpress.com/
+
 **Cram3r95/Cram3r95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
